@@ -92,11 +92,8 @@ La API devuelve un JSON con la siguiente estructura:
         ]
     }
 }
+```
 
-
-
-markdown
-Copiar código
 # Holiday API - Python Function
 
 Este proyecto contiene una función escrita en Python que utiliza la API de Calendarific para obtener los días festivos de un país en un año o mes específico. En este caso, se muestra cómo obtener los días festivos de Colombia para el año 2024.
