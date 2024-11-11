@@ -18,7 +18,7 @@ Antes de ejecutar este script, debes instalar las siguientes dependencias:
 ```bash
 pip install requests
 
-
+```
 Uso
 la función está definida de la siguiente manera:
 
